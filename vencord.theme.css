@@ -9,17 +9,12 @@
  * @donate https://www.paypal.me/wqqt9
 */
 
-/* font */
-@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner&display=swap');
-
 /* core css */
 @import url('https://warrayquipsome.github.io/Chillax/chillax.css');
 
 /* extra addons*/
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css');
-@import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://warrayquipsome.github.io/Chillax/Addons/IconPackEdited.css');
-@import url('https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css');
 
 /* zFloat */
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
@@ -87,7 +82,7 @@
 /*settings modal root*/
   --themelightsettingsmodalbackground: rgb(223, 223, 223);
   --themedarksettingsmodalbackground: rgb(51, 49, 53);
-  --settingsmodalwidth: 960px;
+  --settingsmodalwidth: 480px;
   --settingsmodalheight: 80vh;	
 }
      
