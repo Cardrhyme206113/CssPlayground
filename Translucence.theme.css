@@ -29,7 +29,7 @@
 :root {
     --app-bg: url("https://i.imgur.com/pP7FaLV.jpg");
     --app-blur: 2px;
-    --app-margin: 16px;
+    --app-margin: 12px;
     --app-radius: 8px;
 
     --accent-hue: 0;
