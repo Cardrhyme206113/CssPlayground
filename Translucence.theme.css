@@ -27,10 +27,10 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-    --app-bg: url(https://i.imgur.com/3BRC9PW.jpg);
-    --app-blur: 6px;
-    --app-margin: 18px;
-    --app-radius: 12px;
+    --app-bg: url("https://i.imgur.com/pP7FaLV.jpg");
+    --app-blur: 2px;
+    --app-margin: 16px;
+    --app-radius: 8px;
 
     --accent-hue: 0;
     --accent-saturation: 95%;
@@ -38,13 +38,13 @@
     --accent-opacity: 1;
     --accent-text-color: #fff;
 
-    --sidebar-color: rgba(0, 0, 0, 0.2);
-    --main-content-color: rgba(0, 0, 0, 0.2);
+    --sidebar-color: rgba(0, 0, 0, 0.15);
+    --main-content-color: rgba(0, 0, 0, 0.15);
 
     --message-color: rgba(0, 0, 0, 0);
-    --message-radius: 16px;
-    --message-padding-top: 1px;
-    --message-padding-side: 4px;
+    --message-radius: 4px;
+    --message-padding-top: 0.3px;
+    --message-padding-side: 2px;
 
     --reply-hue: 226;
     --reply-saturation: 77.4%;
