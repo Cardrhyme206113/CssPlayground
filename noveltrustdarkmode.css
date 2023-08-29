@@ -1,0 +1,39 @@
+.m-read {
+  --props: 0.1s linear;
+  filter: blur(12px);
+  clip-path: circle(100% at center);
+  transition: clip-path var(--props), filter var(--props);
+}
+
+.m-read:hover {
+  filter: none;
+  clip-path: none;
+}
+
+.txt {
+  background-color: #24262e;
+  color: #CCCCCC;
+  font-size: 25px;
+}
+
+p {
+  color: #868888;
+}
+
+h4 {
+  color: #868888;
+}
+
+.m-read .top,
+.m-read .wp,
+.main .cur {
+  background-color: #24262e !important;
+}
+
+div#cur {
+  background-color: #24262e !important;   
+}
+
+div#main1 {
+  background-color: #24262e !important;
+}
